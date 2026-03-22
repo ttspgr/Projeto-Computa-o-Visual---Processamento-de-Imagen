@@ -1,3 +1,11 @@
+/*
+Projeto de Computação Visual - Processamento de Imagens
+Professor: André Kishimoto
+Turma 07N
+Integrantes:
+Lucas Zanini da Silva - 10417361
+Tiago Teraoka e Sá - 10418485
+*/
 #include "include/gui.h"
 #include "include/histogram.h"
 #include "include/image_saver.h"

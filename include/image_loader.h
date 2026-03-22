@@ -1,3 +1,11 @@
+/*
+Projeto de Computação Visual - Processamento de Imagens
+Professor: André Kishimoto
+Turma 07N
+Integrantes:
+Lucas Zanini da Silva - 10417361
+Tiago Teraoka e Sá - 10418485
+*/
 #ifndef IMAGE_LOADER_H
 #define IMAGE_LOADER_H
 

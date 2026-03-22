@@ -15,7 +15,7 @@ O código-fonte da aplicação é modularizado, garantindo fácil manutenção e
 - **`include/`** e **`src/`**: Diretórios contendo os cabeçalhos (`.h`) e a implementação (`.c`) de cada funcionalidade específica:
   - **`image_loader`**: Lida com o carregamento de imagens em disco usando a biblioteca **SDL_image**.
   - **`grayscale`**: Responsável pelas operações de processamento de imagens, como a conversão para escala de cinza e a adaptação do formato da superfície (*Surface*).
-  - **`histogram`**: Responsável pela geração visual do histograma da imagem processada.
+  - **`histogram`**: Responsável pela geração visual do histograma da imagem processada e manipulação da Imagem para geração da versão equalizada.
   - **`image_saver`**: Oferece suporte para salvar as imagens resultantes de volta no disco.
   - **`gui`**: Contém a lógica de interface gráfica, lidando com renderização de janelas, interações do usuário e renderização de textos via **SDL_ttf**.
 - **`public/`** e **`SDL_Files/`**: Diretórios com os ativos do projeto (por exemplo, imagens de teste, fontes `.ttf`, etc).
