@@ -4,7 +4,7 @@ Este projeto consiste em uma aplicação desenvolvida em linguagem C que realiza
 
 ## Integrantes
 
-* Lucas Zanin da Silva - 10417361
+* Lucas Zanini da Silva - 10417361
 * Tiago Teraoka e Sá - 10418485
 
 ## Organização do Projeto
